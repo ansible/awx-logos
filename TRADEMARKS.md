@@ -100,10 +100,10 @@ See universal considerations for all uses, above, which also apply.
 
 You may use the Word Marks and Logos on your webpage to show your Project support if:
 
-Your own branding or naming is more prominent than any Project Marks;
-The Logos hyperlink to the Project website (http://github.com/ansible/awx);
-The site does not mislead customers into thinking your website, service, or product is our website, service, or product; and
-The site clearly states the Project does not affiliate with or endorse you.
+* Your own branding or naming is more prominent than any Project Marks;
+* The Logos hyperlink to the Project website (http://github.com/ansible/awx);
+* The site does not mislead customers into thinking your website, service, or product is our website, service, or product; and
+* The site clearly states the Project does not affiliate with or endorse you.
 
 #### 6.1.2 Publishing and presenting
 
@@ -119,10 +119,10 @@ You can use the signage in the <<Brand Standards>> to promote the software and P
 
 You can use the Word Marks as part of your meetup or user group name if:
 
-The group’s main focus is the software;
-Any software or services the group provides are without cost;
-The group does not make a profit;
-Any charge to attend meetings is only to cover the cost of the venue, food and drink.
+* The group’s main focus is the software;
+* Any software or services the group provides are without cost;
+* The group does not make a profit;
+* Any charge to attend meetings is only to cover the cost of the venue, food and drink.
 
 The universal considerations for all uses, above, still apply: specifically, you may not use or register the Marks as part of your own trademark, service mark, domain name, company name, trade name, product name or service name.
 
@@ -147,7 +147,5 @@ If you are aware of a confusing use or misuse of the Marks, we would appreciate 
 If you have questions, wish to speak about using our Marks in ways the Policy doesn’t address, or see abuse of our Marks, please <<insert contact information.>>
 
 We based these guidelines on the Model Trademark Guidelines, available at http://www.modeltrademarkguidelines.org., used under a Creative Commons Attribution 3.0 Unported license: https://creativecommons.org/licenses/by/3.0/deed.en_US
+
 Attribution: Model Trademark Guidelines, available at www.modeltrademarkguidelines.org.
-Privacy policy
-About Model Trademark Guidelines
-Creative Commons Attribution 4.0 Unported License
