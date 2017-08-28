@@ -16,30 +16,25 @@ The following sections describe the trademarks this Policy covers, as well as tr
 We want to encourage and facilitate community use of our trademarks in a way that ensures the trademarks are meaningful source and quality indicators for our software and the associated goods and services and continue to embody the high reputation of the software and its associated community. This Policy therefore balances our need to ensure our trademarks remain reliable quality indicators and our community members’ desire to be full Project participants. 
 
 
-3. Trademarks subject to the Policy
+## 3. Trademarks subject to the Policy
 
 Our trademarks
 
 This Policy covers:
 
-3.1 Our word trademarks and service marks (the "Word Marks"):
+### 3.1 Our word trademarks and service marks (the "Word Marks"):
 
 AWX	
 
+### 3.2. Our logo (the "Logo"):
 
-3.2. Our logo (the "Logo"):
+(FIXME: link to logo file elsewhere in repo)
 
-
-
-
-
-
-
-3.3 And the unique visual styling of our website (the "Trade Dress").
+### 3.3 And the unique visual styling of our website (the "Trade Dress").
 
 This Policy encompasses all Project trademarks and service marks, whether Word Marks, Logos or Trade Dress, which we collectively call the “Marks.” We might not have registered some Marks, but his Policy covers our Marks regardless.
 
-4. Universal considerations for all uses
+## 4. Universal considerations for all uses
 
 Whenever you use a Mark, you must not mislead anyone, either directly or by omission, about what they are getting and from whom. The law reflects this requirement in two major ways described below: it prohibits creating a "likelihood of confusion," but allows for "nominative use." 
 
@@ -59,49 +54,49 @@ Trademark law does not allow you to use names or trademarks that are too similar
 
 You will not acquire rights in the Marks, and any goodwill you generate using the Marks inures solely to our benefit.
 
-5. Use for software
+## 5. Use for software
 
 See universal considerations for all uses, above, which also apply.
 
-5.1 Uses we consider non-infringing
+### 5.1 Uses we consider non-infringing
 
-5.1.1 Distributing unmodified source code or unmodified executable code we have compiled
+#### 5.1.1 Distributing unmodified source code or unmodified executable code we have compiled
 
 When you redistribute our unmodified software, you are not changing its quality or nature. Therefore, you may retain the Word Marks and Logos we have placed on the software, to identify your redistributed software whether you redistribute by optical media, memory stick or download of unmodified source and executable code. This only applies if you are redistributing official software from this Project that you have not changed. You can find files for the Logos and approved designs for packaging on our <<Brand Standards>> page.
 
-5.1.2 Distributing executable code you have compiled, or modified code
+#### 5.1.2 Distributing executable code you have compiled, or modified code
 
 You may use the Word Marks, but not the Logos, to describe the software’s origin, that is, that the code you are distributing is a modification of our software. You may say, for example, "this software is derived from the source code from the AWX Project."
 
 Of course, you can place your own trademarks or logos on software to which you have made substantive modifications, because by modifying the software, you have become the origin of the modified software. In that case, you should not use the “official” flag for your compilation (see 5.2.1).
 
-5.1.3 Statements about compatibility, interoperability or derivation
+#### 5.1.3 Statements about compatibility, interoperability or derivation
 
 You may use the Word Marks, but not the Logos, to describe the relationship between your software and ours. You should use Our Mark after a verb or preposition that describes that relationship. So, you may say, for example, "Bob's plug-in for AWX," but may not say "Bob's AWX plug-in."
 
-5.1.4 Using trademarks to show community affiliation
+#### 5.1.4 Using trademarks to show community affiliation
 
 This section discusses using our Marks for application themes, skins and personas. We discuss using our Marks on websites below.
 
 You may use the Word Marks and the Logos in themes, personas, or skins to show your Project support, provided the use is non-commercial and clearly decorative, as contrasted with a use that appears to be the branding for a website or application.
 
-5.2 Permitted uses
+### 5.2 Permitted uses
 
-5.2.1 Distributing unmodified software
+#### 5.2.1 Distributing unmodified software
 
 You may use the Word Marks and Logos to distribute executable code if you make the code from official Project source code using the procedure for creating an executable found at <<location of build instructions.>>
 
-5.3 Unpermitted uses we consider infringing
+### 5.3 Unpermitted uses we consider infringing
 
 We will likely consider it an infringement to use the Marks in software that combines our software with another software program. In addition to creating a single executable for both software programs, we would consider your software "combined" with ours if installing our software automatically installs yours. We would not consider your software "combined" with ours if it is on the same media but requires separate, independent action to install.
 
-6. Use for non-software goods and services
+## 6. Use for non-software goods and services
 
 See universal considerations for all uses, above, which also apply.
 
-6.1 Uses we consider non-infringing
+### 6.1 Uses we consider non-infringing
 
-6.1.1 Websites
+#### 6.1.1 Websites
 
 You may use the Word Marks and Logos on your webpage to show your Project support if:
 
@@ -110,18 +105,17 @@ The Logos hyperlink to the Project website (http://github.com/ansible/awx);
 The site does not mislead customers into thinking your website, service, or product is our website, service, or product; and
 The site clearly states the Project does not affiliate with or endorse you.
 
-
-6.1.2 Publishing and presenting
+#### 6.1.2 Publishing and presenting
 
 You can use the Word Marks in book and article titles, and the Logo in illustrations within a document, if the use does not suggest we published, endorse, or agree with your work.
 
-6.1.3 Events
+#### 6.1.3 Events
 
 You can use the signage in the <<Brand Standards>> to promote the software and Project at events.
 
-6.2 Permitted uses
+### 6.2 Permitted uses
 
-6.2.1 Meetups and user groups
+#### 6.2.1 Meetups and user groups
 
 You can use the Word Marks as part of your meetup or user group name if:
 
@@ -130,26 +124,25 @@ Any software or services the group provides are without cost;
 The group does not make a profit;
 Any charge to attend meetings is only to cover the cost of the venue, food and drink.
 
-
 The universal considerations for all uses, above, still apply: specifically, you may not use or register the Marks as part of your own trademark, service mark, domain name, company name, trade name, product name or service name.
 
-6.2 Unpermitted uses we consider infringing
+### 6.3 Unpermitted uses we consider infringing
 
 We will likely consider it an infringement to use the Marks as part of a domain name or subdomain.
 
 We also would likely consider it an infringement to use the Marks on for-sale promotional goods.
 
-7 General Information
+## 7 General Information
 
-7.1 Trademark legends
+### 7.1 Trademark legends
 
 If you are using our Marks in a way described in the sections entitled "Permitted uses," put the following notice at the foot of the page where you have used the Mark (or, if in a book, on the credits page), on packaging or labeling, and on advertising or marketing materials: "The AWX Project is a trademark of Red Hat, Inc., used with permission.”
 
-7.2 What to do when you see abuse
+### 7.2 What to do when you see abuse
 
 If you are aware of a confusing use or misuse of the Marks, we would appreciate you bringing it our attention. Please contact us so we can investigate it further.
 
-7.3 Where to get further information
+### 7.3 Where to get further information
 
 If you have questions, wish to speak about using our Marks in ways the Policy doesn’t address, or see abuse of our Marks, please <<insert contact information.>>
 
