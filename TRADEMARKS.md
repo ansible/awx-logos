@@ -62,7 +62,7 @@ See universal considerations for all uses, above, which also apply.
 
 #### 5.1.1 Distributing unmodified source code or unmodified executable code we have compiled
 
-When you redistribute our unmodified software, you are not changing its quality or nature. Therefore, you may retain the Word Marks and Logos we have placed on the software, to identify your redistributed software whether you redistribute by optical media, memory stick or download of unmodified source and executable code. This only applies if you are redistributing official software from this Project that you have not changed. You can find files for the Logos and approved designs for packaging on our <<Brand Standards>> page.
+When you redistribute our unmodified software, you are not changing its quality or nature. Therefore, you may retain the Word Marks and Logos we have placed on the software, to identify your redistributed software whether you redistribute by optical media, memory stick or download of unmodified source and executable code. This only applies if you are redistributing official software from this Project that you have not changed. You can find the Logo files [here](https://github.com/ansible/awx-logos/blob/master/awx/ui/client/assets/logo-header.svg "AWX Logo").
 
 #### 5.1.2 Distributing executable code you have compiled, or modified code
 
@@ -84,7 +84,7 @@ You may use the Word Marks and the Logos in themes, personas, or skins to show y
 
 #### 5.2.1 Distributing unmodified software
 
-You may use the Word Marks and Logos to distribute executable code if you make the code from official Project source code using the procedure for creating an executable found at <<location of build instructions.>>
+You may use the Word Marks and Logos to distribute executable code if you make the code from official Project source code using the procedure for creating an executable found at (FIXME: location of build instructions.)
 
 ### 5.3 Unpermitted uses we consider infringing
 
@@ -111,7 +111,7 @@ You can use the Word Marks in book and article titles, and the Logo in illustrat
 
 #### 6.1.3 Events
 
-You can use the signage in the <<Brand Standards>> to promote the software and Project at events.
+You can use the Logo to promote the software and Project at events.
 
 ### 6.2 Permitted uses
 
@@ -144,7 +144,7 @@ If you are aware of a confusing use or misuse of the Marks, we would appreciate 
 
 ### 7.3 Where to get further information
 
-If you have questions, wish to speak about using our Marks in ways the Policy doesn’t address, or see abuse of our Marks, please <<insert contact information.>>
+If you have questions, wish to speak about using our Marks in ways the Policy doesn’t address, or see abuse of our Marks, please (FIXME: insert contact info).
 
 We based these guidelines on the Model Trademark Guidelines, available at http://www.modeltrademarkguidelines.org., used under a Creative Commons Attribution 3.0 Unported license: https://creativecommons.org/licenses/by/3.0/deed.en_US
 
