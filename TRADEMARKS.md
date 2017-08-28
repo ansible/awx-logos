@@ -28,7 +28,7 @@ AWX
 
 ### 3.2. Our logo (the "Logo"):
 
-![alt text](https://github.com/ansible/awx-logos/blob/master/awx/ui/client/assets/logo-header.svg "AWX Logo")
+![AWX Logo](https://github.com/ansible/awx-logos/blob/master/awx/ui/client/assets/logo-header.svg "AWX Logo")
 
 ### 3.3 And the unique visual styling of our website (the "Trade Dress").
 
