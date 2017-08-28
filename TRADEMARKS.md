@@ -1,4 +1,6 @@
-1. Introduction
+# AWX Trademark Guidelines
+
+## 1. Introduction
 
 This document - the "Policy" - outlines the policy of The AWX Project (the "Project") for the use of our trademarks.
 
@@ -9,7 +11,7 @@ In this Policy, we are not trying to limit the lawful use of our trademarks, but
 The following sections describe the trademarks this Policy covers, as well as trademark uses we permit. If you want to use our trademarks in ways this Policy doesn’t address, please see "Where to get further information" below for contact information. Any use that does not comply with this Policy, or for which we have not separately provided written permission, is not a use we have approved.
 
 
-2. We are committed to open source principles
+## 2. We are committed to open source principles
 
 We want to encourage and facilitate community use of our trademarks in a way that ensures the trademarks are meaningful source and quality indicators for our software and the associated goods and services and continue to embody the high reputation of the software and its associated community. This Policy therefore balances our need to ensure our trademarks remain reliable quality indicators and our community members’ desire to be full Project participants. 
 
