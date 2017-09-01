@@ -28,11 +28,11 @@ AWX
 
 ### 3.2. Our logo (the "Logo"):
 
-![AWX Logo](https://github.com/ansible/awx-logos/blob/master/awx/ui/client/assets/logo-header.svg "AWX Logo")
+[AWX Logo](https://github.com/ansible/awx-logos/blob/master/awx/ui/client/assets/logo-header.svg "AWX Logo")
 
 ### 3.3 And the unique visual styling of our website (the "Trade Dress").
 
-This Policy encompasses all Project trademarks and service marks, whether Word Marks, Logos or Trade Dress, which we collectively call the “Marks.” We might not have registered some Marks, but his Policy covers our Marks regardless.
+This Policy encompasses all Project trademarks and service marks, whether Word Marks, Logos or Trade Dress, which we collectively call the “Marks.” We might not have registered some Marks, but this Policy covers our Marks regardless.
 
 ## 4. Universal considerations for all uses
 
@@ -68,7 +68,7 @@ When you redistribute our unmodified software, you are not changing its quality 
 
 You may use the Word Marks, but not the Logos, to describe the software’s origin, that is, that the code you are distributing is a modification of our software. You may say, for example, "this software is derived from the source code from the AWX Project."
 
-Of course, you can place your own trademarks or logos on software to which you have made substantive modifications, because by modifying the software, you have become the origin of the modified software. In that case, you should not use the "official" flag for your compilation (see 5.2.1).
+Of course, you can place your own trademarks or logos on software to which you have made substantive modifications, because by modifying the software, you have become the origin of the modified software. 
 
 #### 5.1.3 Statements about compatibility, interoperability or derivation
 
@@ -140,7 +140,7 @@ If you are using our Marks in a way described in the sections entitled "Permitte
 
 ### 7.2 What to do when you see abuse
 
-If you are aware of a confusing use or misuse of the Marks, we would appreciate you bringing it our attention. Please contact us so we can investigate it further.
+If you are aware of a confusing use or misuse of the Marks, we would appreciate you bringing it to our attention. Please contact us so we can investigate it further.
 
 ### 7.3 Where to get further information
 
@@ -148,4 +148,3 @@ If you have questions, wish to speak about using our Marks in ways the Policy do
 
 We based these guidelines on the Model Trademark Guidelines, available at http://www.modeltrademarkguidelines.org., used under a Creative Commons Attribution 3.0 Unported license: https://creativecommons.org/licenses/by/3.0/deed.en_US
 
-Attribution: Model Trademark Guidelines, available at www.modeltrademarkguidelines.org.
